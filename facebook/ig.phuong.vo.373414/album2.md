@@ -1,0 +1,17 @@
+---
+layout: album
+resource: facebook
+title: "Phương Võ - Part album2"
+description: "facebook album of Phương Võ, part album2."
+active: gallery
+album-title: "Phương Võ"
+images:
+  - image_path: phuong.vo.373414/album2/0043_537504496_3938060756484433_221182745490085908_n.jpg
+  - image_path: phuong.vo.373414/album2/0097_533560120_3932142600409582_6043085530570477891_n.jpg
+  - image_path: phuong.vo.373414/album2/0098_534832318_3932142583742917_2088367677453859995_n.jpg
+  - image_path: phuong.vo.373414/album2/0099_533555058_3932142560409586_2393542143444316632_n.jpg
+  - image_path: phuong.vo.373414/album2/0100_515502747_3932142540409588_6464612465387735452_n.jpg
+  - image_path: phuong.vo.373414/album2/0101_534537757_3932142527076256_2958211235167982499_n.jpg
+  - image_path: phuong.vo.373414/album2/0102_515439832_3932142477076261_4050587292106283763_n.jpg
+  - image_path: phuong.vo.373414/album2/0103_533575640_3932142467076262_2559248125988427120_n.jpg
+---

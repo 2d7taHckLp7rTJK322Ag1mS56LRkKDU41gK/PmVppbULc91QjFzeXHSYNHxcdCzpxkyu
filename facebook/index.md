@@ -57,13 +57,17 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.ngomochanhien6688/
   gallery-name: "Ngô Mộc Hà Nhiên"
+- image_path: phamhuynhbaotranfairyfairy/001/'.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.phamhuynhbaotranfairyfairy/
+  gallery-name: ""
+- image_path: phuong.vo.373414/0013_539324120_3942575229366319_7655099695859881650_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.phuong.vo.373414/
+  gallery-name: "Phương Võ"
 - image_path: quynh.tram.7777/1/487483117_3206473759494274_4622016012220350922_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.quynh.tram.7777/
-  gallery-name: ""
-- image_path: theu.nguyenthi.311/104812449_303865387420502_659643601282813977_n.jpg
-  resource: facebook
-  gallery-folder: /facebook/ig.theu.nguyenthi.311/
   gallery-name: ""
 - image_path: violet/images/036c00556ddc463d9005583dd9b07343.jpg
   resource: facebook
